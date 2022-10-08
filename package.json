@@ -1,5 +1,5 @@
 {
-  "name": "music-app-1.0",
+  "name": "MuMusic-1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
